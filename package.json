@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/sse",
+  "version": "1.0.1",
+  "description": "Package sse.",
+  "main": "./lib/sse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sse": "./lib/sse.js"
+  },
+  "keywords": [
+    "sse"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/sse",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/sse/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/sse.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
